@@ -1,0 +1,24 @@
+Client Name: Sarah Johnson
+Review: "The service was exceptional from start to finish. 
+I appreciated how the team patiently answered all my questions. 
+Highly recommended for anyone looking for a smooth car buying experience!"
+
+Client Name: David Martinez
+Review: "I’ve been to many dealerships, but this one stood out. 
+They helped me find the perfect vehicle within my budget and offered great after-sales support."
+
+Client Name: Lisa Wang
+Review: "Buying a car can be stressful, but the team made the process seamless and enjoyable. 
+They were professional, transparent, and genuinely cared about my needs."
+
+Client Name: Robert Kim
+Review: "Amazing service and excellent communication. 
+They provided detailed information on all the cars and helped me choose the best one for my family."
+
+Client Name: Emily Brown
+Review: "The staff was friendly and knowledgeable, 
+and they went above and beyond to ensure I was happy with my purchase. I highly recommend this dealership."
+
+Client Name: James Thompson
+Review: "From the moment I walked in, I felt like a valued customer. 
+The team was professional and helped me find a great deal on a new car."

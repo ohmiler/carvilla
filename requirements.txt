@@ -1,0 +1,11 @@
+System Requirements
+
+1. [x] Admin Login System
+2. [x] newest cars crud system
+3. [x] featured cars crud system
+4. [x] clients review crud system
+5. [x] fetch newest cars to web page
+6. [] fetch featured cars to web page
+7. [] fetch clients review to web page
+8. [] cars search system
+9. [] cars detail page

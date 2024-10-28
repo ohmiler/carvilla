@@ -1,0 +1,215 @@
+Car 1
+
+Name: Honda Civic
+Year: 2020
+Make: Honda
+Model: Civic
+Body Style: Sedan
+Price: ฿787,500
+
+Short desc: A compact sedan known for its reliability, fuel efficiency, and sleek design, ideal for everyday driving.
+
+Good:
+Reliable and fuel-efficient.
+Affordable maintenance costs.
+Modern infotainment system.
+
+Bad:
+Less powerful compared to some competitors.
+Limited rear legroom for taller passengers.
+
+System & Handling:
+The Civic comes with a 2.0-liter 4-cylinder engine, delivering a smooth ride with responsive handling. The suspension provides a balance between comfort and agility, making it great for urban driving. The infotainment system includes Apple CarPlay and Android Auto, but the touchscreen interface can be a bit finicky.
+
+--------------------------------------------------
+
+Car 2
+
+Name: Ford F-150
+Year: 2018
+Make: Ford
+Model: F-150
+Body Style: Pickup Truck
+Price: ฿1,050,000
+
+Short desc: A powerful and versatile pickup truck, offering excellent towing capacity and 
+advanced tech features for work and adventure.
+
+Good:
+Impressive towing and payload capacity.
+Spacious and versatile interior.
+Variety of powerful engine options.
+
+Bad:
+Can be costly with higher trims.
+Fuel economy is not as great as other vehicles in its class.
+
+System & Handling:
+The F-150 offers a robust powertrain, including V6 and V8 options, ideal for hauling heavy loads. It’s equipped with Ford’s SYNC infotainment system, which is easy to use. The handling is solid for a truck, but its size can make it difficult to maneuver in tight spaces.
+
+--------------------------------------------------
+
+Car 3
+
+Name: Toyota Camry
+Year: 2019
+Make: Toyota
+Model: Camry
+Body Style: Sedan
+Price: ฿840,000
+
+Short desc: A midsize sedan that combines comfort, safety, and 
+fuel efficiency, making it a popular family car.
+
+Good:
+Great fuel efficiency.
+Smooth ride and comfortable seating.
+High safety ratings.
+
+Bad:
+Bland driving experience compared to sportier competitors.
+Rear visibility can be limited.
+
+System & Handling:
+The Camry is powered by a 2.5-liter 4-cylinder engine, providing a quiet and composed ride. The handling is predictable, though not overly sporty. The infotainment system is straightforward and includes Toyota’s Entune with Apple CarPlay, but it lacks Android Auto.
+
+--------------------------------------------------
+
+Car 4
+
+Name: Chevrolet Tahoe
+Year: 2021
+Make: Chevrolet
+Model: Tahoe
+Body Style: SUV
+Price: ฿1,925,000
+
+Short desc: A full-size SUV with ample space, strong towing ability, and 
+modern amenities, perfect for large families and long trips.
+
+Good:
+Spacious interior with lots of cargo room.
+Strong towing capability.
+Advanced safety and driver assistance features.
+
+Bad:
+Poor fuel economy.
+Bulky size makes city driving and parking difficult.
+
+System & Handling:
+The Tahoe offers a powerful 5.3-liter V8 engine, ensuring smooth acceleration and excellent towing performance. It’s equipped with the Chevrolet MyLink infotainment system, featuring a user-friendly interface. Handling is firm but nimble for such a large SUV, though it can feel cumbersome in tight spaces.
+
+--------------------------------------------------
+
+Car 5
+
+Name: BMW 3 Series
+Year: 2017
+Make: BMW
+Model: 3 Series
+Body Style: Sedan
+Price: ฿980,000
+
+Short desc: A luxury sports sedan that delivers a blend of performance, handling, 
+and premium interior features for an upscale driving experience.
+
+Good:
+Excellent handling and driving dynamics.
+Luxurious and tech-forward interior.
+Strong engine options.
+
+Bad:
+High maintenance costs.
+Limited rear-seat space.
+
+System & Handling:
+Known for its driving pleasure, the BMW 3 Series is agile and responsive, with sharp steering and strong acceleration. The 2.0-liter turbocharged engine delivers a thrilling drive. It features BMW’s iDrive infotainment system, which is intuitive but has a learning curve. Handling is top-notch, offering precise control on winding roads.
+
+--------------------------------------------------
+
+Car 6
+
+Name: Nissan Rogue
+Year: 2020
+Make: Nissan
+Model: Rogue
+Body Style: SUV
+Price: ฿927,500
+
+Short desc: A compact SUV offering a comfortable ride, modern tech, and good fuel economy, ideal for city and suburban driving.
+
+Good:
+Comfortable ride with spacious seating.
+Advanced safety features come standard.
+Great fuel efficiency for an SUV.
+
+Bad:
+Underpowered engine.
+Infotainment system could be more responsive.
+
+System & Handling:
+The Rogue comes with a 2.5-liter 4-cylinder engine, providing decent acceleration but not much excitement. The ride is comfortable, but the handling is more tuned for comfort than performance. Nissan’s ProPilot Assist system offers semi-autonomous driving capabilities. The infotainment system is basic but easy to use.
+
+--------------------------------------------------
+
+Car 7
+
+Name: Subaru Outback
+Year: 2019
+Make: Subaru
+Model: Outback
+Body Style: Wagon
+Price:  ฿1,050,000
+
+Short desc: A rugged and reliable wagon with all-wheel drive, designed for both off-road adventures and comfortable daily commutes.
+
+Good:
+Standard all-wheel drive and excellent off-road capability.
+Spacious interior with a rugged design.
+Great safety ratings.
+
+Bad:
+Slow acceleration.
+Infotainment system can lag at times.
+
+System & Handling:
+The Outback comes with a 2.5-liter 4-cylinder engine, making it well-suited for outdoor adventures but less so for speed. The handling is stable, with excellent traction in off-road conditions thanks to Subaru’s Symmetrical All-Wheel Drive. The infotainment system includes Subaru’s Starlink, but its interface can be slow.
+
+--------------------------------------------------
+
+Car 8
+
+Name: Tesla Model 3
+Year: 2022
+Make: Tesla
+Model: Model 3
+Body Style: Sedan
+Car Condition: New
+Price: ฿1,400,000
+
+Short desc: A fully electric sedan with impressive range, quick acceleration, and cutting-edge technology, leading the charge in sustainable transportation.
+
+Good:
+Impressive range and acceleration.
+Minimalist and futuristic interior.
+Leading autopilot and safety technology.
+
+Bad:
+Expensive repair costs.
+Interior can feel too minimalist for some.
+
+System & Handling:
+The Model 3 is fully electric, offering instant torque and thrilling acceleration. Its handling is sharp and responsive, especially for an electric car. The autopilot system provides semi-autonomous driving, and the minimalistic dashboard relies heavily on the central touchscreen, which can be distracting at times.
+
+--------------------------------------------------
+
+Newest 3 info
+
+Tesla Model 3 (2022)
+The Tesla Model 3 is a fully electric sedan that offers impressive range, cutting-edge technology, and advanced autopilot features. It's known for its quick acceleration and eco-friendly performance.
+
+Chevrolet Tahoe (2021)
+The Chevrolet Tahoe is a full-size SUV with plenty of interior space, strong towing capacity, and modern technology. It's a popular choice for families looking for a comfortable and powerful vehicle.
+
+Honda Civic (2020)
+The Honda Civic is a compact sedan that combines reliability, fuel efficiency, and a stylish design. It offers a smooth ride with various tech features, making it a favorite among commuters.
